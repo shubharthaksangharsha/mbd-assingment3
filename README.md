@@ -39,7 +39,7 @@ This project implements a comprehensive **recommendation system** for a grocery 
 ├── findings_task_app.txt     
 ├── requirements.txt          
 └── README.md                 
-
+```
 ---
 
 ## ⚙️ Task A: Pattern Mining
@@ -106,6 +106,7 @@ python run_task_c.py
 
 # Launch the web application
 streamlit run app.py
+```
 ---
 
 ## 🧩 Dependencies
@@ -120,7 +121,7 @@ mlxtend
 surprise
 streamlit
 matplotlib
-
+```
 ---
 
 ## 📊 Evaluation Metrics
@@ -144,7 +145,7 @@ The performance of the recommendation models is assessed using:
 
 ## ✍️ Authors
 
-- **Shubharthak Sangharsha** - [@shubharthak](https://github.com/shubharthaksangharsha)
+- **Shubharthak Sangharsha** - [@shubharthak](https://shubharthaksangharsha.github.io/)
 
 Feel free to add contributors or collaborators here.
 

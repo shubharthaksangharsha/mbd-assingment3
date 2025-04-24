@@ -139,7 +139,6 @@ The performance of the recommendation models is assessed using:
 
 - **Shubharthak Sangharsha** - [@shubharthak](https://shubharthaksangharsha.github.io/)
 
-Feel free to add contributors or collaborators here.
 
 ---
 

@@ -135,14 +135,6 @@ The performance of the recommendation models is assessed using:
 
 ---
 
-## 📸 Screenshots
-
-| 📈 Pattern Mining | 🤝 Recommendations | 🧪 Interactive App |
-|------------------|--------------------|--------------------|
-| ![Patterns](visualizations/patterns.png) | ![Recs](visualizations/recs.png) | ![App](visualizations/app.png) |
-
----
-
 ## ✍️ Authors
 
 - **Shubharthak Sangharsha** - [@shubharthak](https://shubharthaksangharsha.github.io/)

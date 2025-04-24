@@ -29,6 +29,8 @@ This project implements a comprehensive recommendation system for a grocery stor
 ├── run_task_a.py             # Script to run Task A independently
 ├── run_task_b.py             # Script to run Task B independently
 ├── run_task_c.py             # Script to run Task C independently
+├── findings_task_a.txt       # Detailed findings from Task A
+├── findings_task_b.txt       # Detailed findings from Task B
 ├── findings_task_c.txt       # Detailed findings from Task C
 ├── findings_task_app.txt     # Documentation of app debugging and fixes
 ├── requirements.txt          # Required packages
@@ -208,6 +210,9 @@ The system generates several outputs:
 - **Missing Data Warnings**: Large numbers of missing values are expected in the dataset and are handled automatically. Check the console for details on records removed
 - **SettingWithCopyWarning**: These warnings from pandas are informational and don't affect functionality
 - **Memory Issues**: If encountering memory errors, try closing other applications or reducing the dataset size
+- **Association Rules Naming**: If encountering errors related to accessing rules, check the attribute name ('association_rules' vs 'rules')
+
+For detailed information about debugging and fixes that were implemented, refer to the `findings_task_app.txt` file.
 
 ## Version Control
 The project is version controlled using Git. Key information:
@@ -221,7 +226,7 @@ The project is version controlled using Git. Key information:
   - Updated UI components to use latest Streamlit parameters
   - Added detailed debugging documentation
 
-To clone this repository:
+The repository has been initialized with Git, and all code changes have been committed. To clone this repository:
 ```bash
 git clone <repository-url>
 cd MBD_ASSIGNMENT3

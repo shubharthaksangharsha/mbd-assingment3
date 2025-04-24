@@ -1,0 +1,44 @@
+==========================================================
+COLLABORATIVE FILTERING RECOMMENDATION SYSTEM SUMMARY
+==========================================================
+
+User ID: 2285.0
+
+1. User-Based Collaborative Filtering Recommendations:
+   1. whole milk (Score: 99.7096)
+   2. other vegetables (Score: 83.5722)
+   3. rolls/buns (Score: 75.1453)
+   4. soda (Score: 74.0749)
+   5. yogurt (Score: 57.8417)
+
+2. Item-Based Collaborative Filtering Recommendations:
+   1. whole milk (Score: 0.6162)
+   2. other vegetables (Score: 0.5959)
+   3. soda (Score: 0.5639)
+   4. rolls/buns (Score: 0.5349)
+   5. yogurt (Score: 0.4702)
+
+3. SVD-Based Collaborative Filtering Recommendations:
+   1. frankfurter (Score: 0.0822)
+   2. semi-finished bread (Score: 0.0778)
+   3. flour (Score: 0.0543)
+   4. dishes (Score: 0.0534)
+   5. herbs (Score: 0.0475)
+
+4. Performance Comparison:
+   User-based execution time: 0.0489 seconds
+   Item-based execution time: 0.0030 seconds
+   SVD-based execution time: 0.0010 seconds
+
+5. Quality Metrics Comparison:
+   User-based: Hit Rate=0.0666, Precision=0.0410, Coverage=0.6168, Diversity=0.2768
+   Item-based: Hit Rate=0.0666, Precision=0.0410, Coverage=0.6168, Diversity=0.2768
+   SVD-based: Hit Rate=0.0666, Precision=0.0410, Coverage=0.6168, Diversity=0.2768
+
+6. Key Insights:
+   - SVD-based approach is 49x faster than user-based and 3x faster than item-based
+   - All methods show similar hit rates and precision in this evaluation
+   - The coverage metric indicates that about 62% of all available items are recommended
+   - Item co-occurrence analysis shows strong associations between dairy products and vegetables
+   - Whole milk has the strongest co-occurrence with other items (especially vegetables and rolls/buns)
+   - Memory-based approaches recommend popular grocery items, while SVD tends to recommend more specific items

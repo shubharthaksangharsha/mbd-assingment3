@@ -1,0 +1,463 @@
+support,itemsets,length,itemsets_str
+0.0527448869752422,frozenset({'shopping bags'}),1,shopping bags
+0.002272455447912929,frozenset({'cleaner'}),1,cleaner
+0.06075828250209305,frozenset({'bottled water'}),1,bottled water
+0.02571462743690946,frozenset({'sausage'}),1,sausage
+0.10668580313359646,frozenset({'other vegetables'}),1,other vegetables
+0.048797990670972374,frozenset({'tropical fruit'}),1,tropical fruit
+0.1304867838775266,frozenset({'whole milk'}),1,whole milk
+0.005621337160626719,frozenset({'flower (seeds)'}),1,flower (seeds)
+0.03456524339193876,frozenset({'citrus fruit'}),1,citrus fruit
+0.03061834708766894,frozenset({'coffee'}),1,coffee
+0.04437268269345772,frozenset({'whipped/sour cream'}),1,whipped/sour cream
+0.015787585217079295,frozenset({'onions'}),1,onions
+0.008850615955029303,frozenset({'dishes'}),1,dishes
+0.07857911733046287,frozenset({'yogurt'}),1,yogurt
+0.016265996890324125,frozenset({'berries'}),1,berries
+0.017222820236813777,frozenset({'hamburger meat'}),1,hamburger meat
+0.005382131324004306,frozenset({'frozen potato products'}),1,frozen potato products
+0.004186102140892238,frozenset({'candles'}),1,candles
+0.0044253079775146515,frozenset({'instant food products'}),1,instant food products
+0.040545389307499104,frozenset({'bottled beer'}),1,bottled beer
+0.03970816887932065,frozenset({'domestic eggs'}),1,domestic eggs
+0.034086831718693936,frozenset({'butter'}),1,butter
+0.027508671211577563,frozenset({'frozen vegetables'}),1,frozen vegetables
+0.023920583662241358,frozenset({'chocolate'}),1,chocolate
+0.020332496112905156,frozenset({'waffles'}),1,waffles
+0.09460590838416458,frozenset({'soda'}),1,soda
+0.040186580552565486,frozenset({'brown bread'}),1,brown bread
+0.014711158952278435,frozenset({'sliced cheese'}),1,sliced cheese
+0.030139935414424113,frozenset({'curd'}),1,curd
+0.01638559980863533,frozenset({'specialty chocolate'}),1,specialty chocolate
+0.026671450783399116,frozenset({'white bread'}),1,white bread
+0.03755531634971893,frozenset({'pip fruit'}),1,pip fruit
+0.007534983853606028,frozenset({'frozen fish'}),1,frozen fish
+0.012199497667743094,frozenset({'frankfurter'}),1,frankfurter
+0.0031096758760913766,frozenset({'sparkling wine'}),1,sparkling wine
+0.023681377825618945,frozenset({'cream cheese'}),1,cream cheese
+0.0193756727664155,frozenset({'sugar'}),1,sugar
+0.03671809592154049,frozenset({'fruit/vegetable juice'}),1,fruit/vegetable juice
+0.022963760315751706,frozenset({'beef'}),1,beef
+0.005382131324004306,frozenset({'condensed milk'}),1,condensed milk
+0.011003468484631025,frozenset({'meat'}),1,meat
+0.060399473747159434,frozenset({'root vegetables'}),1,root vegetables
+0.010883865566319819,frozenset({'soft cheese'}),1,soft cheese
+0.04963521109915082,frozenset({'pastry'}),1,pastry
+0.034206434637005144,frozenset({'canned beer'}),1,canned beer
+0.016026791053701712,frozenset({'candy'}),1,candy
+0.02320296615237412,frozenset({'dessert'}),1,dessert
+0.012558306422676713,frozenset({'ice cream'}),1,ice cream
+0.10190168640114819,frozenset({'rolls/buns'}),1,rolls/buns
+0.015428776462145676,frozenset({'butter milk'}),1,butter milk
+0.01495036478890085,frozenset({'oil'}),1,oil
+0.014830761870589642,frozenset({'frozen meals'}),1,frozen meals
+0.014711158952278435,frozenset({'chicken'}),1,chicken
+0.011003468484631025,frozenset({'pickled vegetables'}),1,pickled vegetables
+0.02499700992704222,frozenset({'napkins'}),1,napkins
+0.015428776462145676,frozenset({'misc. beverages'}),1,misc. beverages
+0.005621337160626719,frozenset({'frozen dessert'}),1,frozen dessert
+0.013754335605788781,frozenset({'hard cheese'}),1,hard cheese
+0.013634732687477575,frozenset({'specialty bar'}),1,specialty bar
+0.03540246382011721,frozenset({'margarine'}),1,margarine
+0.011481880157875853,frozenset({'processed cheese'}),1,processed cheese
+0.019614878603037914,frozenset({'salty snack'}),1,salty snack
+0.0028704700394689632,frozenset({'spices'}),1,spices
+0.04138260973567755,frozenset({'newspapers'}),1,newspapers
+0.01423274727903361,frozenset({'cat food'}),1,cat food
+0.007774189690228441,frozenset({'seasonal products'}),1,seasonal products
+0.0057409400789379264,frozenset({'mustard'}),1,mustard
+0.003468484631024997,frozenset({'soups'}),1,soups
+0.001196029183112068,frozenset({'prosecco'}),1,prosecco
+0.008850615955029303,frozenset({'canned fish'}),1,canned fish
+0.002511661284535343,frozenset({'male cosmetics'}),1,male cosmetics
+0.020332496112905156,frozenset({'long life bakery product'}),1,long life bakery product
+0.009927042219830163,frozenset({'flour'}),1,flour
+0.0032292787944025836,frozenset({'house keeping products'}),1,house keeping products
+0.011123071402942232,frozenset({'red/blush wine'}),1,red/blush wine
+0.005980145915560339,frozenset({'packaged fruit/vegetables'}),1,packaged fruit/vegetables
+0.001076426264800861,frozenset({'cooking chocolate'}),1,cooking chocolate
+0.002272455447912929,frozenset({'finished products'}),1,finished products
+0.008372204281784475,frozenset({'semi-finished bread'}),1,semi-finished bread
+0.005621337160626719,frozenset({'dish cleaner'}),1,dish cleaner
+0.005621337160626719,frozenset({'cling film/bags'}),1,cling film/bags
+0.018777658174859466,frozenset({'pork'}),1,pork
+0.006099748833871547,frozenset({'canned vegetables'}),1,canned vegetables
+0.019854084439660327,frozenset({'uht-milk'}),1,uht-milk
+0.0032292787944025836,frozenset({'softener'}),1,softener
+0.006099748833871547,frozenset({'roll products'}),1,roll products
+0.010285850974763784,frozenset({'ham'}),1,ham
+0.004544910895825858,frozenset({'specialty cheese'}),1,specialty cheese
+0.014711158952278435,frozenset({'hygiene articles'}),1,hygiene articles
+0.0057409400789379264,frozenset({'liquor'}),1,liquor
+0.001794043774668102,frozenset({'nut snack'}),1,nut snack
+0.005023322569070686,frozenset({'mayonnaise'}),1,mayonnaise
+0.003946896304269824,frozenset({'rice'}),1,rice
+0.002272455447912929,frozenset({'jam'}),1,jam
+0.005023322569070686,frozenset({'pet care'}),1,pet care
+0.004305705059203444,frozenset({'dog food'}),1,dog food
+0.004784116732448272,frozenset({'chocolate marshmallow'}),1,chocolate marshmallow
+0.0029900729577801697,frozenset({'female sanitary products'}),1,female sanitary products
+0.003468484631024997,frozenset({'cereals'}),1,cereals
+0.001674440856356895,frozenset({'syrup'}),1,syrup
+0.004305705059203444,frozenset({'sweet spreads'}),1,sweet spreads
+0.009927042219830163,frozenset({'white wine'}),1,white wine
+0.009807439301518957,frozenset({'grapes'}),1,grapes
+0.008731013036718097,frozenset({'herbs'}),1,herbs
+0.008013395526850856,frozenset({'pasta'}),1,pasta
+0.00334888171271379,frozenset({'popcorn'}),1,popcorn
+0.003588087549336204,frozenset({'turkey'}),1,turkey
+0.0019136466929793087,frozenset({'skin care'}),1,skin care
+0.01423274727903361,frozenset({'beverages'}),1,beverages
+0.00633895467049396,frozenset({'spread cheese'}),1,spread cheese
+0.002392058366224136,frozenset({'dental care'}),1,dental care
+0.003946896304269824,frozenset({'liquor (appetizer)'}),1,liquor (appetizer)
+0.008491807200095682,frozenset({'detergent'}),1,detergent
+0.012199497667743094,frozenset({'chewing gum'}),1,chewing gum
+0.0044253079775146515,frozenset({'photo/film'}),1,photo/film
+0.008372204281784475,frozenset({'pot plants'}),1,pot plants
+0.0014352350197344816,frozenset({'rum'}),1,rum
+0.001076426264800861,frozenset({'honey'}),1,honey
+0.0038272933859586173,frozenset({'curd cheese'}),1,curd cheese
+0.001076426264800861,frozenset({'canned fruit'}),1,canned fruit
+0.002152852529601722,frozenset({'ketchup'}),1,ketchup
+0.004186102140892238,frozenset({'instant coffee'}),1,instant coffee
+0.001196029183112068,frozenset({'organic sausage'}),1,organic sausage
+0.0037076904676474104,frozenset({'vinegar'}),1,vinegar
+0.006578160507116374,frozenset({'cake bar'}),1,cake bar
+0.0014352350197344816,frozenset({'tidbits'}),1,tidbits
+0.0015548379380456883,frozenset({'nuts/prunes'}),1,nuts/prunes
+0.002511661284535343,frozenset({'kitchen towels'}),1,kitchen towels
+0.008013395526850856,frozenset({'baking powder'}),1,baking powder
+0.0014352350197344816,frozenset({'abrasive cleaner'}),1,abrasive cleaner
+0.0031096758760913766,frozenset({'zwieback'}),1,zwieback
+0.001674440856356895,frozenset({'potato products'}),1,potato products
+0.0029900729577801697,frozenset({'sauces'}),1,sauces
+0.005860542997249133,frozenset({'salt'}),1,salt
+0.001196029183112068,frozenset({'cocoa drinks'}),1,cocoa drinks
+0.0015548379380456883,frozenset({'snack products'}),1,snack products
+0.0020332496112905156,frozenset({'light bulbs'}),1,light bulbs
+0.001674440856356895,frozenset({'soap'}),1,soap
+0.002152852529601722,frozenset({'brandy'}),1,brandy
+0.001196029183112068,frozenset({'specialty vegetables'}),1,specialty vegetables
+0.0013156321014232747,frozenset({'bathroom cleaner'}),1,bathroom cleaner
+0.002511661284535343,frozenset({'meat spreads'}),1,meat spreads
+0.002392058366224136,frozenset({'specialty fat'}),1,specialty fat
+0.001076426264800861,frozenset({'ready soups'}),1,ready soups
+0.001674440856356895,frozenset({'liver loaf'}),1,liver loaf
+0.001674440856356895,frozenset({'artif. sweetener'}),1,artif. sweetener
+0.002272455447912929,frozenset({'tea'}),1,tea
+0.001076426264800861,frozenset({'pudding powder'}),1,pudding powder
+0.00334888171271379,"frozenset({'shopping bags', 'yogurt'})",2,"shopping bags, yogurt"
+0.003946896304269824,"frozenset({'shopping bags', 'soda'})",2,"shopping bags, soda"
+0.004066499222581031,"frozenset({'shopping bags', 'other vegetables'})",2,"shopping bags, other vegetables"
+0.004544910895825858,"frozenset({'whole milk', 'shopping bags'})",2,"whole milk, shopping bags"
+0.004066499222581031,"frozenset({'shopping bags', 'rolls/buns'})",2,"shopping bags, rolls/buns"
+0.0032292787944025836,"frozenset({'shopping bags', 'root vegetables'})",2,"shopping bags, root vegetables"
+0.0020332496112905156,"frozenset({'shopping bags', 'bottled water'})",2,"shopping bags, bottled water"
+0.0038272933859586173,"frozenset({'bottled water', 'soda'})",2,"bottled water, soda"
+0.0038272933859586173,"frozenset({'other vegetables', 'bottled water'})",2,"other vegetables, bottled water"
+0.004066499222581031,"frozenset({'rolls/buns', 'bottled water'})",2,"rolls/buns, bottled water"
+0.004544910895825858,"frozenset({'whole milk', 'bottled water'})",2,"whole milk, bottled water"
+0.0032292787944025836,"frozenset({'yogurt', 'bottled water'})",2,"yogurt, bottled water"
+0.0014352350197344816,"frozenset({'sausage', 'rolls/buns'})",2,"sausage, rolls/buns"
+0.001674440856356895,"frozenset({'sausage', 'soda'})",2,"sausage, soda"
+0.0027508671211577563,"frozenset({'whole milk', 'sausage'})",2,"whole milk, sausage"
+0.0013156321014232747,"frozenset({'sausage', 'other vegetables'})",2,"sausage, other vegetables"
+0.0020332496112905156,"frozenset({'sausage', 'yogurt'})",2,"sausage, yogurt"
+0.009209424709962923,"frozenset({'whole milk', 'other vegetables'})",2,"whole milk, other vegetables"
+0.0032292787944025836,"frozenset({'tropical fruit', 'other vegetables'})",2,"tropical fruit, other vegetables"
+0.0038272933859586173,"frozenset({'whole milk', 'tropical fruit'})",2,"whole milk, tropical fruit"
+0.001794043774668102,"frozenset({'pastry', 'tropical fruit'})",2,"pastry, tropical fruit"
+0.0031096758760913766,"frozenset({'tropical fruit', 'rolls/buns'})",2,"tropical fruit, rolls/buns"
+0.0026312642028465494,"frozenset({'tropical fruit', 'yogurt'})",2,"tropical fruit, yogurt"
+0.001196029183112068,"frozenset({'tropical fruit', 'root vegetables'})",2,"tropical fruit, root vegetables"
+0.0014352350197344816,"frozenset({'shopping bags', 'tropical fruit'})",2,"shopping bags, tropical fruit"
+0.002272455447912929,"frozenset({'tropical fruit', 'bottled water'})",2,"tropical fruit, bottled water"
+0.003588087549336204,"frozenset({'tropical fruit', 'soda'})",2,"tropical fruit, soda"
+0.0013156321014232747,"frozenset({'citrus fruit', 'yogurt'})",2,"citrus fruit, yogurt"
+0.002152852529601722,"frozenset({'citrus fruit', 'other vegetables'})",2,"citrus fruit, other vegetables"
+0.0015548379380456883,"frozenset({'whipped/sour cream', 'citrus fruit'})",2,"whipped/sour cream, citrus fruit"
+0.0026312642028465494,"frozenset({'citrus fruit', 'rolls/buns'})",2,"citrus fruit, rolls/buns"
+0.002511661284535343,"frozenset({'citrus fruit', 'soda'})",2,"citrus fruit, soda"
+0.0013156321014232747,"frozenset({'pastry', 'citrus fruit'})",2,"pastry, citrus fruit"
+0.0015548379380456883,"frozenset({'citrus fruit', 'bottled water'})",2,"citrus fruit, bottled water"
+0.0013156321014232747,"frozenset({'domestic eggs', 'citrus fruit'})",2,"domestic eggs, citrus fruit"
+0.001076426264800861,"frozenset({'shopping bags', 'citrus fruit'})",2,"shopping bags, citrus fruit"
+0.001196029183112068,"frozenset({'brown bread', 'citrus fruit'})",2,"brown bread, citrus fruit"
+0.0026312642028465494,"frozenset({'whole milk', 'citrus fruit'})",2,"whole milk, citrus fruit"
+0.001076426264800861,"frozenset({'root vegetables', 'citrus fruit'})",2,"root vegetables, citrus fruit"
+0.0020332496112905156,"frozenset({'coffee', 'rolls/buns'})",2,"coffee, rolls/buns"
+0.001076426264800861,"frozenset({'coffee', 'tropical fruit'})",2,"coffee, tropical fruit"
+0.0014352350197344816,"frozenset({'coffee', 'yogurt'})",2,"coffee, yogurt"
+0.001076426264800861,"frozenset({'coffee', 'brown bread'})",2,"coffee, brown bread"
+0.0015548379380456883,"frozenset({'coffee', 'other vegetables'})",2,"coffee, other vegetables"
+0.0020332496112905156,"frozenset({'whole milk', 'coffee'})",2,"whole milk, coffee"
+0.0020332496112905156,"frozenset({'coffee', 'soda'})",2,"coffee, soda"
+0.0013156321014232747,"frozenset({'coffee', 'root vegetables'})",2,"coffee, root vegetables"
+0.001196029183112068,"frozenset({'coffee', 'bottled water'})",2,"coffee, bottled water"
+0.001076426264800861,"frozenset({'margarine', 'coffee'})",2,"margarine, coffee"
+0.0015548379380456883,"frozenset({'coffee', 'shopping bags'})",2,"coffee, shopping bags"
+0.001794043774668102,"frozenset({'whipped/sour cream', 'bottled water'})",2,"whipped/sour cream, bottled water"
+0.002152852529601722,"frozenset({'whipped/sour cream', 'rolls/buns'})",2,"whipped/sour cream, rolls/buns"
+0.0028704700394689632,"frozenset({'whipped/sour cream', 'soda'})",2,"whipped/sour cream, soda"
+0.002511661284535343,"frozenset({'whipped/sour cream', 'yogurt'})",2,"whipped/sour cream, yogurt"
+0.0013156321014232747,"frozenset({'whipped/sour cream', 'tropical fruit'})",2,"whipped/sour cream, tropical fruit"
+0.001794043774668102,"frozenset({'whipped/sour cream', 'root vegetables'})",2,"whipped/sour cream, root vegetables"
+0.0032292787944025836,"frozenset({'whole milk', 'whipped/sour cream'})",2,"whole milk, whipped/sour cream"
+0.001196029183112068,"frozenset({'pastry', 'whipped/sour cream'})",2,"pastry, whipped/sour cream"
+0.0014352350197344816,"frozenset({'whipped/sour cream', 'shopping bags'})",2,"whipped/sour cream, shopping bags"
+0.0029900729577801697,"frozenset({'whipped/sour cream', 'other vegetables'})",2,"whipped/sour cream, other vegetables"
+0.001076426264800861,"frozenset({'onions', 'soda'})",2,"onions, soda"
+0.0013156321014232747,"frozenset({'whole milk', 'onions'})",2,"whole milk, onions"
+0.00633895467049396,"frozenset({'yogurt', 'other vegetables'})",2,"yogurt, other vegetables"
+0.0057409400789379264,"frozenset({'rolls/buns', 'yogurt'})",2,"rolls/buns, yogurt"
+0.0068173663437387875,"frozenset({'whole milk', 'yogurt'})",2,"whole milk, yogurt"
+0.0044253079775146515,"frozenset({'yogurt', 'soda'})",2,"yogurt, soda"
+0.001196029183112068,"frozenset({'pastry', 'berries'})",2,"pastry, berries"
+0.0013156321014232747,"frozenset({'berries', 'other vegetables'})",2,"berries, other vegetables"
+0.0013156321014232747,"frozenset({'whole milk', 'berries'})",2,"whole milk, berries"
+0.001076426264800861,"frozenset({'hamburger meat', 'bottled beer'})",2,"hamburger meat, bottled beer"
+0.001794043774668102,"frozenset({'hamburger meat', 'rolls/buns'})",2,"hamburger meat, rolls/buns"
+0.0014352350197344816,"frozenset({'hamburger meat', 'other vegetables'})",2,"hamburger meat, other vegetables"
+0.001076426264800861,"frozenset({'hamburger meat', 'pastry'})",2,"hamburger meat, pastry"
+0.001794043774668102,"frozenset({'root vegetables', 'bottled beer'})",2,"root vegetables, bottled beer"
+0.002152852529601722,"frozenset({'bottled beer', 'rolls/buns'})",2,"bottled beer, rolls/buns"
+0.0013156321014232747,"frozenset({'whipped/sour cream', 'bottled beer'})",2,"whipped/sour cream, bottled beer"
+0.005382131324004306,"frozenset({'whole milk', 'bottled beer'})",2,"whole milk, bottled beer"
+0.001196029183112068,"frozenset({'tropical fruit', 'bottled beer'})",2,"tropical fruit, bottled beer"
+0.0020332496112905156,"frozenset({'pastry', 'bottled beer'})",2,"pastry, bottled beer"
+0.0019136466929793087,"frozenset({'bottled beer', 'yogurt'})",2,"bottled beer, yogurt"
+0.002511661284535343,"frozenset({'bottled beer', 'bottled water'})",2,"bottled beer, bottled water"
+0.001674440856356895,"frozenset({'bottled beer', 'newspapers'})",2,"bottled beer, newspapers"
+0.0037076904676474104,"frozenset({'bottled beer', 'other vegetables'})",2,"bottled beer, other vegetables"
+0.0019136466929793087,"frozenset({'bottled beer', 'soda'})",2,"bottled beer, soda"
+0.001076426264800861,"frozenset({'domestic eggs', 'bottled beer'})",2,"domestic eggs, bottled beer"
+0.003946896304269824,"frozenset({'whole milk', 'domestic eggs'})",2,"whole milk, domestic eggs"
+0.0029900729577801697,"frozenset({'domestic eggs', 'rolls/buns'})",2,"domestic eggs, rolls/buns"
+0.001794043774668102,"frozenset({'root vegetables', 'domestic eggs'})",2,"root vegetables, domestic eggs"
+0.002511661284535343,"frozenset({'domestic eggs', 'soda'})",2,"domestic eggs, soda"
+0.0026312642028465494,"frozenset({'domestic eggs', 'other vegetables'})",2,"domestic eggs, other vegetables"
+0.001674440856356895,"frozenset({'domestic eggs', 'yogurt'})",2,"domestic eggs, yogurt"
+0.0014352350197344816,"frozenset({'shopping bags', 'domestic eggs'})",2,"shopping bags, domestic eggs"
+0.0019136466929793087,"frozenset({'domestic eggs', 'bottled water'})",2,"domestic eggs, bottled water"
+0.0015548379380456883,"frozenset({'domestic eggs', 'brown bread'})",2,"domestic eggs, brown bread"
+0.001196029183112068,"frozenset({'pastry', 'domestic eggs'})",2,"pastry, domestic eggs"
+0.0014352350197344816,"frozenset({'tropical fruit', 'domestic eggs'})",2,"tropical fruit, domestic eggs"
+0.001794043774668102,"frozenset({'domestic eggs', 'newspapers'})",2,"domestic eggs, newspapers"
+0.0014352350197344816,"frozenset({'root vegetables', 'butter'})",2,"root vegetables, butter"
+0.002392058366224136,"frozenset({'butter', 'soda'})",2,"butter, soda"
+0.0031096758760913766,"frozenset({'whole milk', 'butter'})",2,"whole milk, butter"
+0.0020332496112905156,"frozenset({'butter', 'rolls/buns'})",2,"butter, rolls/buns"
+0.0015548379380456883,"frozenset({'butter', 'yogurt'})",2,"butter, yogurt"
+0.001196029183112068,"frozenset({'butter', 'fruit/vegetable juice'})",2,"butter, fruit/vegetable juice"
+0.0019136466929793087,"frozenset({'butter', 'other vegetables'})",2,"butter, other vegetables"
+0.001076426264800861,"frozenset({'margarine', 'butter'})",2,"margarine, butter"
+0.0013156321014232747,"frozenset({'butter', 'newspapers'})",2,"butter, newspapers"
+0.0013156321014232747,"frozenset({'butter', 'bottled water'})",2,"butter, bottled water"
+0.0014352350197344816,"frozenset({'frozen vegetables', 'yogurt'})",2,"frozen vegetables, yogurt"
+0.001076426264800861,"frozenset({'frozen vegetables', 'tropical fruit'})",2,"frozen vegetables, tropical fruit"
+0.002392058366224136,"frozenset({'frozen vegetables', 'rolls/buns'})",2,"frozen vegetables, rolls/buns"
+0.0015548379380456883,"frozenset({'frozen vegetables', 'root vegetables'})",2,"frozen vegetables, root vegetables"
+0.002392058366224136,"frozenset({'frozen vegetables', 'other vegetables'})",2,"frozen vegetables, other vegetables"
+0.0019136466929793087,"frozenset({'frozen vegetables', 'soda'})",2,"frozen vegetables, soda"
+0.001076426264800861,"frozenset({'frozen vegetables', 'fruit/vegetable juice'})",2,"frozen vegetables, fruit/vegetable juice"
+0.0013156321014232747,"frozenset({'frozen vegetables', 'bottled beer'})",2,"frozen vegetables, bottled beer"
+0.0027508671211577563,"frozenset({'whole milk', 'frozen vegetables'})",2,"whole milk, frozen vegetables"
+0.0015548379380456883,"frozenset({'chocolate', 'yogurt'})",2,"chocolate, yogurt"
+0.001674440856356895,"frozenset({'whole milk', 'chocolate'})",2,"whole milk, chocolate"
+0.0015548379380456883,"frozenset({'chocolate', 'other vegetables'})",2,"chocolate, other vegetables"
+0.002152852529601722,"frozenset({'chocolate', 'soda'})",2,"chocolate, soda"
+0.002152852529601722,"frozenset({'chocolate', 'rolls/buns'})",2,"chocolate, rolls/buns"
+0.001076426264800861,"frozenset({'waffles', 'yogurt'})",2,"waffles, yogurt"
+0.002511661284535343,"frozenset({'whole milk', 'waffles'})",2,"whole milk, waffles"
+0.001196029183112068,"frozenset({'waffles', 'root vegetables'})",2,"waffles, root vegetables"
+0.0014352350197344816,"frozenset({'waffles', 'other vegetables'})",2,"waffles, other vegetables"
+0.001674440856356895,"frozenset({'waffles', 'rolls/buns'})",2,"waffles, rolls/buns"
+0.009089821791651716,"frozenset({'whole milk', 'soda'})",2,"whole milk, soda"
+0.007415380935294821,"frozenset({'other vegetables', 'soda'})",2,"other vegetables, soda"
+0.005262528405693099,"frozenset({'rolls/buns', 'soda'})",2,"rolls/buns, soda"
+0.0027508671211577563,"frozenset({'brown bread', 'soda'})",2,"brown bread, soda"
+0.002511661284535343,"frozenset({'brown bread', 'yogurt'})",2,"brown bread, yogurt"
+0.0028704700394689632,"frozenset({'brown bread', 'other vegetables'})",2,"brown bread, other vegetables"
+0.0019136466929793087,"frozenset({'pastry', 'brown bread'})",2,"pastry, brown bread"
+0.0029900729577801697,"frozenset({'brown bread', 'rolls/buns'})",2,"brown bread, rolls/buns"
+0.001196029183112068,"frozenset({'whipped/sour cream', 'brown bread'})",2,"whipped/sour cream, brown bread"
+0.003946896304269824,"frozenset({'whole milk', 'brown bread'})",2,"whole milk, brown bread"
+0.0013156321014232747,"frozenset({'brown bread', 'bottled water'})",2,"brown bread, bottled water"
+0.001076426264800861,"frozenset({'root vegetables', 'brown bread'})",2,"root vegetables, brown bread"
+0.0014352350197344816,"frozenset({'whole milk', 'sliced cheese'})",2,"whole milk, sliced cheese"
+0.001196029183112068,"frozenset({'sliced cheese', 'soda'})",2,"sliced cheese, soda"
+0.0014352350197344816,"frozenset({'sliced cheese', 'other vegetables'})",2,"sliced cheese, other vegetables"
+0.001076426264800861,"frozenset({'root vegetables', 'sliced cheese'})",2,"root vegetables, sliced cheese"
+0.002152852529601722,"frozenset({'curd', 'soda'})",2,"curd, soda"
+0.001794043774668102,"frozenset({'whipped/sour cream', 'curd'})",2,"whipped/sour cream, curd"
+0.001794043774668102,"frozenset({'curd', 'yogurt'})",2,"curd, yogurt"
+0.0014352350197344816,"frozenset({'curd', 'rolls/buns'})",2,"curd, rolls/buns"
+0.002511661284535343,"frozenset({'curd', 'other vegetables'})",2,"curd, other vegetables"
+0.0028704700394689632,"frozenset({'whole milk', 'curd'})",2,"whole milk, curd"
+0.001674440856356895,"frozenset({'curd', 'bottled water'})",2,"curd, bottled water"
+0.001196029183112068,"frozenset({'shopping bags', 'curd'})",2,"shopping bags, curd"
+0.0013156321014232747,"frozenset({'pastry', 'curd'})",2,"pastry, curd"
+0.0015548379380456883,"frozenset({'specialty chocolate', 'soda'})",2,"specialty chocolate, soda"
+0.001196029183112068,"frozenset({'whole milk', 'specialty chocolate'})",2,"whole milk, specialty chocolate"
+0.0015548379380456883,"frozenset({'specialty chocolate', 'other vegetables'})",2,"specialty chocolate, other vegetables"
+0.0020332496112905156,"frozenset({'white bread', 'other vegetables'})",2,"white bread, other vegetables"
+0.001674440856356895,"frozenset({'rolls/buns', 'white bread'})",2,"rolls/buns, white bread"
+0.002392058366224136,"frozenset({'whole milk', 'white bread'})",2,"whole milk, white bread"
+0.001674440856356895,"frozenset({'white bread', 'bottled water'})",2,"white bread, bottled water"
+0.001076426264800861,"frozenset({'newspapers', 'white bread'})",2,"newspapers, white bread"
+0.001076426264800861,"frozenset({'white bread', 'canned beer'})",2,"white bread, canned beer"
+0.001076426264800861,"frozenset({'brown bread', 'white bread'})",2,"brown bread, white bread"
+0.001674440856356895,"frozenset({'pip fruit', 'root vegetables'})",2,"pip fruit, root vegetables"
+0.0028704700394689632,"frozenset({'pip fruit', 'soda'})",2,"pip fruit, soda"
+0.0019136466929793087,"frozenset({'pip fruit', 'other vegetables'})",2,"pip fruit, other vegetables"
+0.001196029183112068,"frozenset({'pip fruit', 'bottled beer'})",2,"pip fruit, bottled beer"
+0.0031096758760913766,"frozenset({'whole milk', 'pip fruit'})",2,"whole milk, pip fruit"
+0.0019136466929793087,"frozenset({'pip fruit', 'pastry'})",2,"pip fruit, pastry"
+0.0013156321014232747,"frozenset({'pip fruit', 'shopping bags'})",2,"pip fruit, shopping bags"
+0.003946896304269824,"frozenset({'pip fruit', 'rolls/buns'})",2,"pip fruit, rolls/buns"
+0.002152852529601722,"frozenset({'pip fruit', 'yogurt'})",2,"pip fruit, yogurt"
+0.001076426264800861,"frozenset({'pip fruit', 'bottled water'})",2,"pip fruit, bottled water"
+0.0020332496112905156,"frozenset({'whole milk', 'frankfurter'})",2,"whole milk, frankfurter"
+0.001196029183112068,"frozenset({'frankfurter', 'other vegetables'})",2,"frankfurter, other vegetables"
+0.001674440856356895,"frozenset({'cream cheese', 'rolls/buns'})",2,"cream cheese, rolls/buns"
+0.001674440856356895,"frozenset({'cream cheese', 'yogurt'})",2,"cream cheese, yogurt"
+0.0020332496112905156,"frozenset({'whole milk', 'cream cheese'})",2,"whole milk, cream cheese"
+0.001196029183112068,"frozenset({'shopping bags', 'cream cheese'})",2,"shopping bags, cream cheese"
+0.001196029183112068,"frozenset({'cream cheese', 'soda'})",2,"cream cheese, soda"
+0.0015548379380456883,"frozenset({'cream cheese', 'other vegetables'})",2,"cream cheese, other vegetables"
+0.001794043774668102,"frozenset({'whole milk', 'sugar'})",2,"whole milk, sugar"
+0.0015548379380456883,"frozenset({'sugar', 'bottled water'})",2,"sugar, bottled water"
+0.001076426264800861,"frozenset({'tropical fruit', 'sugar'})",2,"tropical fruit, sugar"
+0.0015548379380456883,"frozenset({'bottled beer', 'fruit/vegetable juice'})",2,"bottled beer, fruit/vegetable juice"
+0.0029900729577801697,"frozenset({'whole milk', 'fruit/vegetable juice'})",2,"whole milk, fruit/vegetable juice"
+0.001076426264800861,"frozenset({'pastry', 'fruit/vegetable juice'})",2,"pastry, fruit/vegetable juice"
+0.0037076904676474104,"frozenset({'rolls/buns', 'fruit/vegetable juice'})",2,"rolls/buns, fruit/vegetable juice"
+0.002272455447912929,"frozenset({'fruit/vegetable juice', 'yogurt'})",2,"fruit/vegetable juice, yogurt"
+0.0015548379380456883,"frozenset({'tropical fruit', 'fruit/vegetable juice'})",2,"tropical fruit, fruit/vegetable juice"
+0.002152852529601722,"frozenset({'fruit/vegetable juice', 'soda'})",2,"fruit/vegetable juice, soda"
+0.001076426264800861,"frozenset({'whipped/sour cream', 'fruit/vegetable juice'})",2,"whipped/sour cream, fruit/vegetable juice"
+0.002392058366224136,"frozenset({'fruit/vegetable juice', 'other vegetables'})",2,"fruit/vegetable juice, other vegetables"
+0.001076426264800861,"frozenset({'beef', 'newspapers'})",2,"beef, newspapers"
+0.0019136466929793087,"frozenset({'whole milk', 'beef'})",2,"whole milk, beef"
+0.0014352350197344816,"frozenset({'beef', 'rolls/buns'})",2,"beef, rolls/buns"
+0.001196029183112068,"frozenset({'beef', 'yogurt'})",2,"beef, yogurt"
+0.0027508671211577563,"frozenset({'root vegetables', 'other vegetables'})",2,"root vegetables, other vegetables"
+0.004544910895825858,"frozenset({'root vegetables', 'soda'})",2,"root vegetables, soda"
+0.00334888171271379,"frozenset({'root vegetables', 'rolls/buns'})",2,"root vegetables, rolls/buns"
+0.004066499222581031,"frozenset({'whole milk', 'root vegetables'})",2,"whole milk, root vegetables"
+0.0029900729577801697,"frozenset({'root vegetables', 'yogurt'})",2,"root vegetables, yogurt"
+0.002272455447912929,"frozenset({'root vegetables', 'bottled water'})",2,"root vegetables, bottled water"
+0.0026312642028465494,"frozenset({'pastry', 'yogurt'})",2,"pastry, yogurt"
+0.0026312642028465494,"frozenset({'pastry', 'soda'})",2,"pastry, soda"
+0.002511661284535343,"frozenset({'pastry', 'other vegetables'})",2,"pastry, other vegetables"
+0.002272455447912929,"frozenset({'pastry', 'rolls/buns'})",2,"pastry, rolls/buns"
+0.002511661284535343,"frozenset({'pastry', 'bottled water'})",2,"pastry, bottled water"
+0.002392058366224136,"frozenset({'pastry', 'root vegetables'})",2,"pastry, root vegetables"
+0.001196029183112068,"frozenset({'pastry', 'shopping bags'})",2,"pastry, shopping bags"
+0.0038272933859586173,"frozenset({'whole milk', 'pastry'})",2,"whole milk, pastry"
+0.001196029183112068,"frozenset({'pastry', 'canned beer'})",2,"pastry, canned beer"
+0.0032292787944025836,"frozenset({'whole milk', 'canned beer'})",2,"whole milk, canned beer"
+0.001076426264800861,"frozenset({'shopping bags', 'canned beer'})",2,"shopping bags, canned beer"
+0.001076426264800861,"frozenset({'newspapers', 'canned beer'})",2,"newspapers, canned beer"
+0.001076426264800861,"frozenset({'root vegetables', 'canned beer'})",2,"root vegetables, canned beer"
+0.0020332496112905156,"frozenset({'canned beer', 'soda'})",2,"canned beer, soda"
+0.001076426264800861,"frozenset({'tropical fruit', 'canned beer'})",2,"tropical fruit, canned beer"
+0.002511661284535343,"frozenset({'canned beer', 'yogurt'})",2,"canned beer, yogurt"
+0.001794043774668102,"frozenset({'brown bread', 'canned beer'})",2,"brown bread, canned beer"
+0.001794043774668102,"frozenset({'rolls/buns', 'canned beer'})",2,"rolls/buns, canned beer"
+0.002511661284535343,"frozenset({'canned beer', 'other vegetables'})",2,"canned beer, other vegetables"
+0.001196029183112068,"frozenset({'canned beer', 'fruit/vegetable juice'})",2,"canned beer, fruit/vegetable juice"
+0.001076426264800861,"frozenset({'bottled beer', 'canned beer'})",2,"bottled beer, canned beer"
+0.001076426264800861,"frozenset({'domestic eggs', 'candy'})",2,"domestic eggs, candy"
+0.0014352350197344816,"frozenset({'candy', 'rolls/buns'})",2,"candy, rolls/buns"
+0.001196029183112068,"frozenset({'candy', 'soda'})",2,"candy, soda"
+0.002152852529601722,"frozenset({'whole milk', 'candy'})",2,"whole milk, candy"
+0.001076426264800861,"frozenset({'dessert', 'soda'})",2,"dessert, soda"
+0.001794043774668102,"frozenset({'whole milk', 'dessert'})",2,"whole milk, dessert"
+0.0013156321014232747,"frozenset({'rolls/buns', 'dessert'})",2,"rolls/buns, dessert"
+0.0015548379380456883,"frozenset({'other vegetables', 'dessert'})",2,"other vegetables, dessert"
+0.001196029183112068,"frozenset({'root vegetables', 'dessert'})",2,"root vegetables, dessert"
+0.001076426264800861,"frozenset({'bottled water', 'dessert'})",2,"bottled water, dessert"
+0.0015548379380456883,"frozenset({'whole milk', 'ice cream'})",2,"whole milk, ice cream"
+0.008252601363473269,"frozenset({'whole milk', 'rolls/buns'})",2,"whole milk, rolls/buns"
+0.006936969262049994,"frozenset({'rolls/buns', 'other vegetables'})",2,"rolls/buns, other vegetables"
+0.001076426264800861,"frozenset({'butter milk', 'soda'})",2,"butter milk, soda"
+0.001076426264800861,"frozenset({'oil', 'rolls/buns'})",2,"oil, rolls/buns"
+0.0013156321014232747,"frozenset({'oil', 'soda'})",2,"oil, soda"
+0.001196029183112068,"frozenset({'oil', 'other vegetables'})",2,"oil, other vegetables"
+0.0014352350197344816,"frozenset({'whole milk', 'oil'})",2,"whole milk, oil"
+0.0013156321014232747,"frozenset({'frozen meals', 'whole milk'})",2,"frozen meals, whole milk"
+0.0013156321014232747,"frozenset({'frozen meals', 'other vegetables'})",2,"frozen meals, other vegetables"
+0.001076426264800861,"frozenset({'whole milk', 'pickled vegetables'})",2,"whole milk, pickled vegetables"
+0.002511661284535343,"frozenset({'whole milk', 'napkins'})",2,"whole milk, napkins"
+0.0020332496112905156,"frozenset({'napkins', 'other vegetables'})",2,"napkins, other vegetables"
+0.0020332496112905156,"frozenset({'napkins', 'pastry'})",2,"napkins, pastry"
+0.001674440856356895,"frozenset({'napkins', 'soda'})",2,"napkins, soda"
+0.0014352350197344816,"frozenset({'napkins', 'rolls/buns'})",2,"napkins, rolls/buns"
+0.001674440856356895,"frozenset({'napkins', 'yogurt'})",2,"napkins, yogurt"
+0.001076426264800861,"frozenset({'napkins', 'shopping bags'})",2,"napkins, shopping bags"
+0.001076426264800861,"frozenset({'napkins', 'citrus fruit'})",2,"napkins, citrus fruit"
+0.001076426264800861,"frozenset({'misc. beverages', 'rolls/buns'})",2,"misc. beverages, rolls/buns"
+0.001076426264800861,"frozenset({'whole milk', 'misc. beverages'})",2,"whole milk, misc. beverages"
+0.001076426264800861,"frozenset({'hard cheese', 'rolls/buns'})",2,"hard cheese, rolls/buns"
+0.001076426264800861,"frozenset({'hard cheese', 'yogurt'})",2,"hard cheese, yogurt"
+0.001196029183112068,"frozenset({'specialty bar', 'soda'})",2,"specialty bar, soda"
+0.001196029183112068,"frozenset({'whole milk', 'specialty bar'})",2,"whole milk, specialty bar"
+0.001196029183112068,"frozenset({'specialty bar', 'rolls/buns'})",2,"specialty bar, rolls/buns"
+0.002511661284535343,"frozenset({'margarine', 'soda'})",2,"margarine, soda"
+0.0031096758760913766,"frozenset({'whole milk', 'margarine'})",2,"whole milk, margarine"
+0.001076426264800861,"frozenset({'margarine', 'tropical fruit'})",2,"margarine, tropical fruit"
+0.002392058366224136,"frozenset({'margarine', 'other vegetables'})",2,"margarine, other vegetables"
+0.0028704700394689632,"frozenset({'margarine', 'rolls/buns'})",2,"margarine, rolls/buns"
+0.001076426264800861,"frozenset({'margarine', 'pastry'})",2,"margarine, pastry"
+0.0014352350197344816,"frozenset({'margarine', 'bottled water'})",2,"margarine, bottled water"
+0.001674440856356895,"frozenset({'margarine', 'yogurt'})",2,"margarine, yogurt"
+0.0014352350197344816,"frozenset({'margarine', 'root vegetables'})",2,"margarine, root vegetables"
+0.001076426264800861,"frozenset({'margarine', 'shopping bags'})",2,"margarine, shopping bags"
+0.0014352350197344816,"frozenset({'processed cheese', 'rolls/buns'})",2,"processed cheese, rolls/buns"
+0.0014352350197344816,"frozenset({'salty snack', 'soda'})",2,"salty snack, soda"
+0.0014352350197344816,"frozenset({'salty snack', 'other vegetables'})",2,"salty snack, other vegetables"
+0.0013156321014232747,"frozenset({'root vegetables', 'salty snack'})",2,"root vegetables, salty snack"
+0.001076426264800861,"frozenset({'whole milk', 'salty snack'})",2,"whole milk, salty snack"
+0.0020332496112905156,"frozenset({'rolls/buns', 'salty snack'})",2,"rolls/buns, salty snack"
+0.0013156321014232747,"frozenset({'salty snack', 'yogurt'})",2,"salty snack, yogurt"
+0.0014352350197344816,"frozenset({'newspapers', 'bottled water'})",2,"newspapers, bottled water"
+0.001674440856356895,"frozenset({'root vegetables', 'newspapers'})",2,"root vegetables, newspapers"
+0.0044253079775146515,"frozenset({'whole milk', 'newspapers'})",2,"whole milk, newspapers"
+0.0027508671211577563,"frozenset({'newspapers', 'other vegetables'})",2,"newspapers, other vegetables"
+0.002392058366224136,"frozenset({'newspapers', 'soda'})",2,"newspapers, soda"
+0.0013156321014232747,"frozenset({'whipped/sour cream', 'newspapers'})",2,"whipped/sour cream, newspapers"
+0.00334888171271379,"frozenset({'newspapers', 'rolls/buns'})",2,"newspapers, rolls/buns"
+0.0026312642028465494,"frozenset({'newspapers', 'yogurt'})",2,"newspapers, yogurt"
+0.002272455447912929,"frozenset({'shopping bags', 'newspapers'})",2,"shopping bags, newspapers"
+0.001794043774668102,"frozenset({'whole milk', 'cat food'})",2,"whole milk, cat food"
+0.001076426264800861,"frozenset({'cat food', 'fruit/vegetable juice'})",2,"cat food, fruit/vegetable juice"
+0.001196029183112068,"frozenset({'cat food', 'rolls/buns'})",2,"cat food, rolls/buns"
+0.001076426264800861,"frozenset({'seasonal products', 'rolls/buns'})",2,"seasonal products, rolls/buns"
+0.0020332496112905156,"frozenset({'whole milk', 'long life bakery product'})",2,"whole milk, long life bakery product"
+0.0015548379380456883,"frozenset({'long life bakery product', 'rolls/buns'})",2,"long life bakery product, rolls/buns"
+0.001076426264800861,"frozenset({'tropical fruit', 'long life bakery product'})",2,"tropical fruit, long life bakery product"
+0.0013156321014232747,"frozenset({'long life bakery product', 'soda'})",2,"long life bakery product, soda"
+0.0015548379380456883,"frozenset({'long life bakery product', 'yogurt'})",2,"long life bakery product, yogurt"
+0.001196029183112068,"frozenset({'red/blush wine', 'soda'})",2,"red/blush wine, soda"
+0.0013156321014232747,"frozenset({'pork', 'other vegetables'})",2,"pork, other vegetables"
+0.001674440856356895,"frozenset({'pork', 'yogurt'})",2,"pork, yogurt"
+0.0013156321014232747,"frozenset({'pork', 'rolls/buns'})",2,"pork, rolls/buns"
+0.0013156321014232747,"frozenset({'whole milk', 'pork'})",2,"whole milk, pork"
+0.002152852529601722,"frozenset({'uht-milk', 'other vegetables'})",2,"uht-milk, other vegetables"
+0.0019136466929793087,"frozenset({'whole milk', 'uht-milk'})",2,"whole milk, uht-milk"
+0.001076426264800861,"frozenset({'tropical fruit', 'uht-milk'})",2,"tropical fruit, uht-milk"
+0.001076426264800861,"frozenset({'uht-milk', 'soda'})",2,"uht-milk, soda"
+0.001076426264800861,"frozenset({'uht-milk', 'rolls/buns'})",2,"uht-milk, rolls/buns"
+0.001076426264800861,"frozenset({'whole milk', 'ham'})",2,"whole milk, ham"
+0.001196029183112068,"frozenset({'hygiene articles', 'rolls/buns'})",2,"hygiene articles, rolls/buns"
+0.001196029183112068,"frozenset({'hygiene articles', 'other vegetables'})",2,"hygiene articles, other vegetables"
+0.0013156321014232747,"frozenset({'whole milk', 'hygiene articles'})",2,"whole milk, hygiene articles"
+0.001196029183112068,"frozenset({'beverages', 'soda'})",2,"beverages, soda"
+0.0013156321014232747,"frozenset({'beverages', 'other vegetables'})",2,"beverages, other vegetables"
+0.001196029183112068,"frozenset({'detergent', 'rolls/buns'})",2,"detergent, rolls/buns"
+0.001076426264800861,"frozenset({'chewing gum', 'yogurt'})",2,"chewing gum, yogurt"
+0.0013156321014232747,"frozenset({'chewing gum', 'other vegetables'})",2,"chewing gum, other vegetables"
+0.001196029183112068,"frozenset({'chewing gum', 'rolls/buns'})",2,"chewing gum, rolls/buns"
+0.001076426264800861,"frozenset({'pot plants', 'yogurt'})",2,"pot plants, yogurt"

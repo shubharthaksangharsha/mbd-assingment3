@@ -1,0 +1,58 @@
+==========================================================
+INTEGRATED RECOMMENDATION SYSTEM SUMMARY
+==========================================================
+
+User ID: 3531
+
+1. Collaborative Filtering Recommendations:
+   1. beverages (Score: 0.1185)
+   2. semi-finished bread (Score: 0.1044)
+   3. ham (Score: 0.1037)
+   4. soft cheese (Score: 0.0973)
+   5. red/blush wine (Score: 0.0911)
+   6. ice cream (Score: 0.0861)
+   7. hard cheese (Score: 0.0845)
+   8. detergent (Score: 0.0731)
+   9. uht-milk (Score: 0.0623)
+   10. misc. beverages (Score: 0.0617)
+
+2. Pattern-Based Recommendations:
+   1. other vegetables (Score: 0.0046)
+   2. soda (Score: 0.0045)
+   3. rolls/buns (Score: 0.0041)
+   4. yogurt (Score: 0.0034)
+   5. bottled beer (Score: 0.0027)
+   6. bottled water (Score: 0.0023)
+   7. shopping bags (Score: 0.0023)
+   8. newspapers (Score: 0.0022)
+   9. root vegetables (Score: 0.0020)
+   10. domestic eggs (Score: 0.0020)
+
+3. Hybrid Recommendations:
+   1. beverages (Score: 0.5000)
+   2. other vegetables (Score: 0.5000)
+   3. soda (Score: 0.4935)
+   4. rolls/buns (Score: 0.4481)
+   5. semi-finished bread (Score: 0.4406)
+   6. ham (Score: 0.4376)
+   7. soft cheese (Score: 0.4103)
+   8. red/blush wine (Score: 0.3842)
+   9. yogurt (Score: 0.3701)
+   10. ice cream (Score: 0.3634)
+
+4. Integration Insights:
+   - Hybrid recommendations combine collaborative filtering and pattern mining results
+   - Items appearing in both recommendation sets receive a 20% boost in score
+   - Collaborative filtering contributes 60% to the final score
+   - Pattern mining contributes 40% to the final score
+
+5. User Purchase History:
+   1. candy (1 purchases)
+   2. pastry (1 purchases)
+   3. napkins (1 purchases)
+   4. white wine (1 purchases)
+   5. spread cheese (1 purchases)
+   6. herbs (1 purchases)
+   7. whole milk (1 purchases)
+   8. berries (1 purchases)
+   9. butter (1 purchases)

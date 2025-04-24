@@ -1,0 +1,132 @@
+# Findings and Debugging - Streamlit Application
+
+## Issues Identified and Fixed
+
+### 1. User_id Column Inconsistency
+**Issue:** Inconsistent naming and handling of the 'User_id' column across different parts of the application caused evaluation errors in Tasks B and C.
+
+**Fix Applied:**
+- Added robust column name detection to handle variant spellings (user_id, userId, userid, etc.)
+- Implemented preservation of 'User_id' values before preprocessing
+- Created mapping of original row indices to User_ids to restore the column after preprocessing
+- Added error handling for cases where 'User_id' cannot be preserved or reconstructed
+
+**Files Modified:**
+- src/task_b/collaborative_filtering.py
+- src/task_c/integration.py
+
+### 2. Visualization Selection Reset
+**Issue:** Visualization selections would reset when clicking on other UI elements, requiring users to reselect their choices.
+
+**Fix Applied:**
+- Added session state persistence for visualization selections
+- Implemented unique keys for selectboxes to maintain state
+- Ensured visualization choices are preserved across interface interactions
+
+**Files Modified:**
+- app.py
+
+### 3. Deprecated Parameter Warning
+**Issue:** The use of `use_column_width` parameter triggered deprecated warnings in Streamlit v1.44.1.
+
+**Fix Applied:**
+- Updated all instances to use `use_container_width` instead of `use_column_width`
+- Maintained backward compatibility with older Streamlit versions
+
+**Files Modified:**
+- app.py
+
+### 4. KeyError in Recommendations Display
+**Issue:** KeyErrors occurred when attempting to display recommendations that were not properly initialized or were missing expected keys.
+
+**Fix Applied:**
+- Added comprehensive try-except blocks around recommendation display logic
+- Implemented checking for existence of keys before attempting access
+- Added user-friendly error messages when recommendations are not available
+
+**Files Modified:**
+- app.py
+
+### 5. Association Rules Naming Inconsistency
+**Issue:** Inconsistent naming between `rules` and `association_rules` attributes caused display issues in the Pattern Mining section.
+
+**Fix Applied:**
+- Updated code to consistently use `association_rules` attribute
+- Fixed conditional checks to properly verify the attribute's existence
+
+**Files Modified:**
+- app.py
+
+### 6. Performance Issues with Large Datasets
+**Issue:** Evaluation of recommendation methods on large user sets caused performance bottlenecks and potential timeouts.
+
+**Fix Applied:**
+- Reduced default number of users for evaluation from 20 to 5
+- Added configuration options to adjust the number of users based on system capabilities
+- Implemented progressive loading of results to improve responsiveness
+
+**Files Modified:**
+- run_task_c.py
+
+### 7. Missing Value Handling
+**Issue:** Large number of missing values (53,221) required special handling to prevent data loss.
+
+**Observation:**
+- 7,603 records with missing item descriptions were being removed
+- This affected the quality of recommendations for some users
+
+**Fix Applied:**
+- Improved logging of missing value handling
+- Added warnings when significant data is removed
+
+**Files Modified:**
+- utils/data_utils.py
+
+### 8. Pandas SettingWithCopyWarning
+**Issue:** SettingWithCopyWarning appeared when modifying date columns in dataframes.
+
+**Observation:**
+- Warnings occurred at line 1630 in app.py when setting the Date column
+
+**Fix Required:**
+- Replace direct assignment with .loc[] indexing
+- Update code from `user_data['Date'] = pd.to_datetime(...)` to `user_data.loc[:, 'Date'] = pd.to_datetime(...)`
+
+## Additional Findings
+
+### 1. Pattern Mining Performance
+- FP-Growth significantly outperforms Apriori on the dataset
+- Processing 8,361 transactions with 167 unique items took only 0.05 seconds
+- Generated 62 frequent itemsets but 0 association rules with default settings
+
+### 2. Collaborative Filtering Metrics
+- SVD model with 50 components achieved an explained variance of 0.7917
+- User-based filtering evaluation showed hit rate of 0.0508 and precision of 0.0400
+- Coverage (0.2156) and diversity (0.4875) metrics indicate room for improvement
+
+### 3. Application Performance
+- Streamlit v1.44.1 performs well for the application's needs
+- User interface remains responsive even with complex visualizations
+- Memory usage increases during pattern mining but returns to normal afterward
+
+## Recommendations for Future Improvement
+
+1. **Code Structure:**
+   - Consolidate duplicate code in visualization sections
+   - Create reusable components for common UI patterns
+   - Improve error handling throughout the application
+
+2. **Performance:**
+   - Implement caching for expensive operations
+   - Add progress indicators for long-running tasks
+   - Consider batch processing for large datasets
+
+3. **User Experience:**
+   - Add tooltips to explain metrics and configuration options
+   - Implement undo/redo functionality for user actions
+   - Add export options for all visualizations
+
+4. **Data Handling:**
+   - Improve strategies for dealing with missing values
+   - Add data quality assessment tools
+   - Implement data preprocessing options in the UI 

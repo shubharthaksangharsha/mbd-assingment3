@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+mlxtend
+scikit-learn
+networkx
+jupyter
+notebook 
+ipykernel
+pyfpgrowth
+matplotlib-venn
+streamlit

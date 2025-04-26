@@ -1,6 +1,6 @@
 # 📦 Mining Big Data - Assignment 3
 
-### 🔗 [👉 Launch Web Application](https://mbd-assignment3.duckdns.org)
+### 🔗 [👉 Launch Web Application](https://mbd-assignment.streamlit.app/)
 
 ## 🧠 Overview
 This project implements a comprehensive **recommendation system** for a grocery store by combining **pattern mining** and **collaborative filtering** techniques. It features:

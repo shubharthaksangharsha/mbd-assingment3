@@ -731,7 +731,7 @@ class CollaborativeFilter:
 if __name__ == "__main__":
     try:
         # Load dataset
-        train_path = os.path.join('..', '..', 'dataset', 'train.csv')
+        train_path = "/home/shubharthak/Desktop/mbd-assingment3/dataset/train.csv"
         train_data = pd.read_csv(train_path)
         
         # Initialize and run collaborative filtering

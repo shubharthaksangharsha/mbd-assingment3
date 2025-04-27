@@ -138,6 +138,8 @@ The performance of the recommendation models is assessed using:
 ## ✍️ Authors
 
 - **Shubharthak Sangharsha** - [@shubharthak](https://shubharthaksangharsha.github.io/)
+- **Aliabbas Attarwala** - [@ali786XI](https://github.com/ali786XI)
+- **Manraj Singh** - [@ManrajsinghGGSIPU](https://github.com/ManrajsinghGGSIPU)
 
 
 ---
